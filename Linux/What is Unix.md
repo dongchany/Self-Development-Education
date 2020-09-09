@@ -8,7 +8,7 @@ Unix操作系统是介于计算机器和用户之前的程序。
 
 # Unix 架构
 下面这张图是Unix系统的架构
-<img src="./resources/linux/unix_architecture.jpg"/>
+<img src="../resources/linux/unix_architecture.jpg"/>
 基本主要概念：
 - Kernel内核是操作系统的核心。它与硬件和大多数任务交互，如内存管理、任务调度和文件管理。
 - Shell是处理请求的实用程序。当您在终端上输入命令时，shell将解释该命令并调用您想要的程序。shell对所有命令使用标准语法。C Shell、Bourne Shell和Korn Shell是最著名的Shell，它们可用于大多数Unix变体。
