@@ -22,7 +22,7 @@ Shell脚本具有几个必需的构造，这些构造告诉外壳环境做什么
 
 echo “你叫什么名字？”
 read PERSON
-read “你好，$ PERSON”
+echo “你好，$ PERSON”
 ```
 这是脚本的示例运行-
 
